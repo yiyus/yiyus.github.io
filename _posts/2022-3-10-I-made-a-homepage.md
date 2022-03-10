@@ -8,8 +8,9 @@ This is a simple site.
 At this moment, it just includes
 [this blog](/blog)
 and some information about me
-([my CV](/cv-jgl.pdf),
-[my scientific publications](/publications), or
+(like
+[my CV](/cv-jgl.pdf),
+[my scientific publications](/scholar), or
 [my code](https://github.com/yiyus)).
 
 The site is hosted on
@@ -20,4 +21,4 @@ I modified the templates and the CSS a little bit,
 and also added
 [Google Scholar for Github pages](https://cmccomb.com/google-scholar-for-github-pages/)
 to display the 
-[publications list](/publications).
+[publications list](/scholar).

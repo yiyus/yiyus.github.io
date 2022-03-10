@@ -30,6 +30,7 @@ body {
   background: $white;
   font: 16px/1.4 "Computer Modern Sans";
   color: $darkGray;
+  -webkit-tap-highlight-color: $light;
 }
 
 .container {

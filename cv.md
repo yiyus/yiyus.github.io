@@ -17,44 +17,44 @@ permalink: /cv/
 ## Work
 
 2018 – 2022
-: Postdoctoral researcher at TU Delft (NL)
+: Postdoctoral researcher at [TU Delft](https://tudelft.nl) (NL)
 
 2014 – 2018
-: Postdoctoral researcher at M2i (NL)
+: Postdoctoral researcher at [M2i](https://m2i.nl) (NL)
 
 2008 – 2014
-: Scientific researcher / academic assistant at UGent (BE)
+: Scientific researcher / academic assistant at [UGent](https://ugent.be) (BE)
 
-2010 – 2011
-: (6 months) Plan 9 from Bell Labs (Google)
+2010 – 2011 (6 months)
+: [Plan 9](https://9p.io/plan9/) from Bell Labs ([Google Summer of Code](https://summerofcode.withgoogle.com/))
 
-2008 – 2008
-: (6 months) Laboratory technician at UGent (BE)
+2008 – 2008 (6 months)
+: Laboratory technician at [UGent](https://ugent.be) (BE)
 
-2007 – 2008
-: (6 months) Internship at OCAS NV (BE)
+2007 – 2008 (6 months)
+: Internship at [OCAS NV](https://ocas.be) (BE)
 
 ## Studies
 
 2008 – 2014
-: PhD in engineering at UGent (BE)
+: PhD in engineering at [UGent](https://ugent.be) (BE)
 
 2006 – 2007
-: Master thesis (Erasmus) at Universita degli studi di Lecce (IT)
+: Master thesis (Erasmus) at [Universita degli studi di Lecce](https://www.unisalento.it/) (IT)
 
 1999 – 2007
-: Industrial engineering at Universidad de Valladolid (ES)
+: Industrial engineering at [Universidad de Valladolid](https://uva.es) (ES)
 
 ## Experience
 
-- [Academic and industrial research](/publications)
+- [Academic and industrial research](/scholar)
 - Mechanical engineering, materials science, computational materials science
 - Material characterization and modelling of steels and metallic alloys
 
 ## Other skills
 
 Programming languages and software engineering, operating systems,
-civil and electrical engineering, control systems, CAD/CAM, patisserie, …
+civil and electrical engineering, control systems, CAD/CAM, [patisserie](http://chuchipasteles.es), …
 
 ## Languages
 

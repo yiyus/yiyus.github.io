@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scientific publications
-permalink: /publications/
+permalink: /scholar/
 ---
 
 List of scientific publications with

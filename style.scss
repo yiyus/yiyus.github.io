@@ -53,6 +53,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
 
   @include mobile {
+    clear: both;
     line-height: 1.4;
   }
 }
@@ -324,12 +325,13 @@ nav.about {
   margin: 0 1em 2em;
   a {
     display: block;
-    max-width: 10em;
+    max-width: 20em;
     min-height: 1ex;
     padding: 5px 10px;
     text-align: left;
   }
   p {
+    font-family: "BQN386";
     padding: 0 1em;
     margin: 0 0;
     display: inline-block;
